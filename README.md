@@ -10,7 +10,7 @@ This repository contains information about my research projects that make up my 
 
 ## Chapters & Replication Code
 
-### Geographic Constraints and the Housing Supply Elasticity in Germany. --- [*Ruhr Economic Papers #1003*](https://www.rwi-essen.de/en/publications/scientific/ruhr-economic-papers/detail/geographic-constraints-and-the-housing-supply-elasticity-germany) --- latest version [PDF](https://uni-duisburg-essen.sciebo.de/s/km7tQzcygRQjwp6) | [Code](https://github.com/eyayaw/housing-supply-elasticity-in-germany)
+### Geographic Constraints and the Housing Supply Elasticity in Germany --- [*Ruhr Economic Papers #1003*](https://www.rwi-essen.de/en/publications/scientific/ruhr-economic-papers/detail/geographic-constraints-and-the-housing-supply-elasticity-germany) --- latest version [PDF](https://uni-duisburg-essen.sciebo.de/s/km7tQzcygRQjwp6) | [Code](https://github.com/eyayaw/housing-supply-elasticity-in-germany)
 
 ![Housing supply and price growth 2008-2019](images/hs_p_growth_map.png)
 ![Housing supply and price growth 2008-2019](images/hse_heterogeneity.png)
@@ -26,7 +26,7 @@ This repository contains information about my research projects that make up my 
 </details>
 
 
-### The impact of COVID-19 on real estate markets in Germany. --- German Economic Review [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4700238) | [Code](https://github.com/eyayaw/de-donut-effect)
+### The impact of COVID-19 on real estate markets in Germany --- German Economic Review 2025 (2) [PDF](https://www.degruyter.com/document/doi/10.1515/ger-2024-0049) | [Code](https://github.com/eyayaw/de-donut-effect)
 
 
 ![Estimates for the price and rent gradients](images/flatten-curve.png)
@@ -43,7 +43,7 @@ This repository contains information about my research projects that make up my 
 > --- Coauthored with [Patrick Thiel](https://github.com/pthie)
 </details>
 
-### Testing the Gradient Predictions of the Monocentric City Model in Addis Ababa. [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4803607) | [Code](https://github.com/eyayaw/the-monocentric-city-gradients-addis-ababa)
+### Testing the Gradient Predictions of the Monocentric City Model in Addis Ababa [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4803607) | [Code](https://github.com/eyayaw/the-monocentric-city-gradients-addis-ababa)
 
 
 ![The rent gradient in Addis Ababa in 2023.](images/gradients_map.png)
